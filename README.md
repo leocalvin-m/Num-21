@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Full stack(MERN)
 - 💞️ Currently I'am not looking for any collaboration
-- But feel free to Hi
+- But feel free to say Hi
 - 📫 You can reach me at leocalvin.m@gmail.com
 
 <!---
